@@ -24,7 +24,7 @@
 
 ## &#x1f4c8; GitHub Stats
 
-<p align="left" style="display: inline-block;"><img align="left" 
+<p style="display: inline-block;"><img align="left" 
     src="https://github-readme-stats.vercel.app/api/top-langs?username=adiii013&show_icons=true&locale=en&layout=compact&theme=radical"
     alt="adiii013" /></p>
 
