@@ -25,12 +25,12 @@
 ## &#x1f4c8; GitHub Stats
 
 <p style="flex-direction: row;">
-<p><img align="left" 
+<p><img
     src="https://github-readme-stats.vercel.app/api/top-langs?username=adiii013&show_icons=true&locale=en&layout=compact&theme=radical"
     alt="adiii013" /></p>
 
 
-<p style="display: inline-block;"><img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=adiii013&theme=radical"
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=adiii013&theme=radical"
     alt="adiii013" /></p>
   </p>
 <br />
