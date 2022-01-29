@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Aditya Ranjit Patil</h1>
-<h3 align="center">Competitive Programmer & Web Developer from India</h3>
+<h3 align="center">Competitive Programmer & Web-Android Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adiii013&label=Profile%20views&color=0e75b6&style=flat" alt="adiii013" /> </p>
 
-- 🌱 I’m currently learning **Android React Native Development**
+- 🌱 I’m currently learning **Android React-Native Development**
 
 - 📝 I regularly write articles on [Competitve Programming](Competitve Programming)
 
-- 💬 Ask me about **C++, Algorithms, Competitive Programming**
+- 💬 Ask me about **C++, Algorithms, Competitive Programming, React-Native**
 
 - 📫 How to reach me **adidada023@gmail.com**
 
