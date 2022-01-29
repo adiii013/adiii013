@@ -24,15 +24,17 @@
 
 ## &#x1f4c8; GitHub Stats
 
-<p style="display: inline-block;"><img align="left" 
+<p style="flex-direction: row;">
+<p><img align="left" 
     src="https://github-readme-stats.vercel.app/api/top-langs?username=adiii013&show_icons=true&locale=en&layout=compact&theme=radical"
     alt="adiii013" /></p>
 
 
 <p style="display: inline-block;"><img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=adiii013&theme=radical"
     alt="adiii013" /></p>
-
+  </p>
 <br />
+
 
 ![GitHub Activity
 Graph](https://activity-graph.herokuapp.com/graph?username=adiii013&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)
