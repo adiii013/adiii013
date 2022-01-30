@@ -24,10 +24,15 @@
 
 ## &#x1f4c8; GitHub Stats
 
-<div align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=adiii013&show_icons=true&theme=cobalt"></img>
-</div>
+<div style="flex-direction: row;">
+<img
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=adiii013&show_icons=true&locale=en&layout=compact&theme=radical"
+    alt="adiii013" />
 
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=adiii013&theme=radical"
+    alt="adiii013" />
+ </div>
 <br />
 
 
