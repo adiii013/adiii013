@@ -25,7 +25,7 @@
 ## &#x1f4c8; GitHub Stats
 
 <div align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=nishant-bhosale&show_icons=true&theme=cobalt"></img>
+   <img src="https://github-readme-stats.vercel.app/api?username=adiii013&show_icons=true&theme=cobalt"></img>
 </div>
 
 <br />
