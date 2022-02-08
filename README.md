@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adiii013&label=Profile%20views&color=0e75b6&style=flat" alt="adiii013" /> </p>
 
-- 🌱 I’m currently learning **Android React-Native Development**
+- 🌱 I’m currently learning **Android Flutter Development**
 
 - 📝 I regularly write articles on [Competitve Programming](Competitve Programming)
 
