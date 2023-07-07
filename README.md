@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [Web | Android](Competitve Programming)
 
-- 💬 Ask me about **C++, Algorithms, Competitive Programming, React-Native**
+- 💬 Ask me about **C++, Algorithms, Competitive Programming, MERN Stack**
 
 - 📫 How to reach me **adidada023@gmail.com**
 
