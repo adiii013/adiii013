@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adiii013&label=Profile%20views&color=0e75b6&style=flat" alt="adiii013" /> </p>
 
-- 🌱 I’m currently learning **Android Flutter Development**
+- 🌱 I’m a **Full Stack Web-Developer**
 
-- 📝 I regularly write articles on [Competitve Programming](Competitve Programming)
+- 📝 I regularly write articles on [Web | Android](Competitve Programming)
 
 - 💬 Ask me about **C++, Algorithms, Competitive Programming, React-Native**
 
